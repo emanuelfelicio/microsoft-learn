@@ -1,0 +1,15 @@
+C:\estudos programação\C# ESTUDOS\msStudy\desafios\Desafio 03\bin\Debug\net8.0\Desafio 03.exe
+C:\estudos programação\C# ESTUDOS\msStudy\desafios\Desafio 03\bin\Debug\net8.0\Desafio 03.deps.json
+C:\estudos programação\C# ESTUDOS\msStudy\desafios\Desafio 03\bin\Debug\net8.0\Desafio 03.runtimeconfig.json
+C:\estudos programação\C# ESTUDOS\msStudy\desafios\Desafio 03\bin\Debug\net8.0\Desafio 03.dll
+C:\estudos programação\C# ESTUDOS\msStudy\desafios\Desafio 03\bin\Debug\net8.0\Desafio 03.pdb
+C:\estudos programação\C# ESTUDOS\msStudy\desafios\Desafio 03\obj\Debug\net8.0\Desafio 03.GeneratedMSBuildEditorConfig.editorconfig
+C:\estudos programação\C# ESTUDOS\msStudy\desafios\Desafio 03\obj\Debug\net8.0\Desafio 03.AssemblyInfoInputs.cache
+C:\estudos programação\C# ESTUDOS\msStudy\desafios\Desafio 03\obj\Debug\net8.0\Desafio 03.AssemblyInfo.cs
+C:\estudos programação\C# ESTUDOS\msStudy\desafios\Desafio 03\obj\Debug\net8.0\Desafio 03.csproj.CoreCompileInputs.cache
+C:\estudos programação\C# ESTUDOS\msStudy\desafios\Desafio 03\obj\Debug\net8.0\Desafio 03.sourcelink.json
+C:\estudos programação\C# ESTUDOS\msStudy\desafios\Desafio 03\obj\Debug\net8.0\Desafio 03.dll
+C:\estudos programação\C# ESTUDOS\msStudy\desafios\Desafio 03\obj\Debug\net8.0\refint\Desafio 03.dll
+C:\estudos programação\C# ESTUDOS\msStudy\desafios\Desafio 03\obj\Debug\net8.0\Desafio 03.pdb
+C:\estudos programação\C# ESTUDOS\msStudy\desafios\Desafio 03\obj\Debug\net8.0\Desafio 03.genruntimeconfig.cache
+C:\estudos programação\C# ESTUDOS\msStudy\desafios\Desafio 03\obj\Debug\net8.0\ref\Desafio 03.dll
